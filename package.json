@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prompt-sync": "^4.2.0",
-    "prop-types": "^15.7.2"
+    "prompt-sync": "^4.2.0"
   }
 }
